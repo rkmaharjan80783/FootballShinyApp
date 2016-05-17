@@ -1,0 +1,7 @@
+name: Publish Document
+account: rpubs
+server: rpubs.com
+appId: https://api.rpubs.com/api/v1/document/181654/97a1d7e1bf4b4b078691de0894dd1fba
+bundleId: https://api.rpubs.com/api/v1/document/181654/97a1d7e1bf4b4b078691de0894dd1fba
+url: http://rpubs.com/rkmaharjan80783/181654
+when: 1463479920.26777
